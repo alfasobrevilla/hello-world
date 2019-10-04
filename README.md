@@ -1,3 +1,4 @@
 # hello-world
 Practice repository
-This is a new change
+
+This is a new exercise
